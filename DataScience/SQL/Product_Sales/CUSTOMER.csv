@@ -1,0 +1,13 @@
+﻿CustomerID,CustomerName,Email,PhoneAreaCode,City,State,ZIP
+1,"Jacobs, Nancy",somewhere.com,817,Fort Worth,TX                                                ,76110
+2,"Jacobs, Chantel",somewhere.com,817,Fort Worth,TX                                                ,76112
+3,"Able, Ralph",somewhere.com,210,San Antonio,TX                                                ,78214
+4,"Baker, Susan",elsewhere.com,210,San Antonio,TX                                                ,78216
+5,"Eagleton, Sam",elsewhere.com,210,San Antonio,TX                                                ,78218
+6,"Foxtrot, Kathy",somewhere.com,972,Dallas,TX                                                ,75220
+7,"George, Sally",somewhere.com,972,Dallas,TX                                                ,75223
+8,"Hullett, Shawn",elsewhere.com,972,Dallas,TX                                                ,75224
+9,"Pearson, Bobbi",elsewhere.com,512,Austin,TX                                                ,78710
+10,"Ranger, Terry",somewhere.com,512,Austin,TX                                                ,78712
+11,"Tyler, Jenny",somewhere.com,972,Dallas,TX                                                ,75225
+12,"Wayne, Joan",elsewhere.com,817,Fort Worth,TX                                                ,76115
